@@ -44,7 +44,7 @@ cpp-coding-style-checker /path/to/project
 cpp-coding-style-checker .  # Check current directory
 ```
 
-# Règles Implémentées V1.0.12
+# Règles Implémentées V1.0.13
 
 ## Fonctions (F)
 
